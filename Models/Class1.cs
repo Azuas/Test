@@ -7,7 +7,7 @@ namespace models
     {
         private void test(){
             string str = string.Empty;
-            
+            str = "test";
         }
     }
 }
